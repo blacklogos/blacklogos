@@ -44,7 +44,6 @@
 - 📝 **[offline-notes-extension](https://github.com/blacklogos/offline-notes-extension)** — 100% offline note-taking in the browser, Markdown export, local-only.
 - 🔳 **[batch-qr](https://github.com/blacklogos/batch-qr)** — Paste URLs, get labeled QR images. One HTML file, no server.
 - 🏰 **[wrap-fantasy-themes](https://github.com/blacklogos/wrap-fantasy-themes)** — Warcraft III / Dota-inspired CSS themes for web apps.
-- 📚 **[learngit](https://github.com/blacklogos/learngit)** — A site to learn *just enough* git.
 
 ---
 

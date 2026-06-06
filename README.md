@@ -49,7 +49,7 @@
 
 ### 📊 GitHub activity
 
-![Tri's GitHub stats](https://github-readme-stats.vercel.app/api?username=blacklogos&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Tri's contribution graph](https://ghchart.rshah.org/blacklogos)
 
 ---
 
